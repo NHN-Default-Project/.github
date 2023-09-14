@@ -55,7 +55,7 @@
 
 .JAVA FX
 - 진행상황
-[%interactive]
+
 * [x] Chapter 1: Overview: The Mental Landscape
 * [x] Chapter 2: Programming in the Small I: Names and Things
 * [ ] Chapter 3: Programming in the Small II: Control
@@ -72,7 +72,7 @@
 
 .기타 사항(추가 서브 과정)
 - 진행상황
-[%interactive]
+
 * [ ] Concurrent Programming (Process, thread, synchronized block, method)
 * [ ] Java network programming
 * [ ] Command-line arguments
