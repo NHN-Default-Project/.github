@@ -63,13 +63,10 @@
 * [x] Chapter 4: Programming in the Large I: Subroutines
 * [x] Chapter 5: Programming in the Large II: Objects and Class
 * [-] Chapter 6: Introduction to GUI Programming
-* [ ] Chapter 7: Arrays, ArrayLists, and Records
-* [ ] Chapter 8: Correctness, Robustness, Efficiency
-* [ ] Chapter 9: Linked Data Structures and Recursion
-* [ ] Chapter 10: Generic Programming and Collection Classes
-* [ ] Chapter 11: Input/Output Streams, Files, and Networking
-* [ ] Chapter 12: Threads and Multiprocessing
-
+* [x] Chapter 7: Arrays, ArrayLists, and Records
+* [x] Chapter 8: Correctness, Robustness, Efficiency
+* [x] Chapter 9: Linked Data Structures and Recursion
+* [x] Chapter 10: Generic Programming and Collection Classes
 
 .기타 사항(추가 서브 과정)
 - 진행상황
@@ -101,6 +98,13 @@
 * 4. 문제 해결 능력 강화 : 알고리즘과 데이터 구조를 이해하고 전반적인 CS 지식 강화.
 * 5. 커뮤니케이션 및 협업 능력 강화 : 다른 팀원들과 원활하게 협력하고 의사소통 및 커뮤니케이션 강화.
 * 6. 최종 목표 : 웹 사이트 제작 프로젝트.
+
+.movie 과제
+* 박민수 : https://github.com/NHN-Default-Project/DefaultProject/tree/parkminsu/Assignment/src/main/java/org/example/parkminsu/movie
+* 이가은 : https://github.com/NHN-Default-Project/DefaultProject/tree/gaeun/Assignment/src/main/java/org/example/gaeun/movies
+* 정민수 : https://github.com/NHN-Default-Project/DefaultProject/tree/Jminsoo/Assignment/src/main/java/org/example/Jminsoo/movie
+* 정재현 : https://github.com/NHN-Default-Project/DefaultProject/tree/jaehyeon/Assignment/src/main/java/org/example/jaehyeon/movie
+* 최윤화 : https://github.com/NHN-Default-Project/DefaultProject/tree/yunhwa/Assignment/src/main/java/org/example/yunhwa/moviescsv
 
 .스타크래프트 과제
 * 박민수 : https://github.com/NHN-Default-Project/DefaultProject/tree/parkminsu/Assignment/src/main/java/org/example/parkminsu/starcraft
